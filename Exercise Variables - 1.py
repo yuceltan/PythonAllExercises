@@ -1,1 +1,2 @@
-print("Yüceltan Ebiri")
+firstName = "Mario"
+print(firstName)
