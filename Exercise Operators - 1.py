@@ -1,1 +1,1 @@
-print("Yüceltan Ebiri")
+print(False and True) # Should print False

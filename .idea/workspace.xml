@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a99a805b-0ba8-45ba-b10a-ce641e23c759" name="Changes" comment="Template for python_exercises">
+    <list default="true" id="a99a805b-0ba8-45ba-b10a-ce641e23c759" name="Changes" comment="Template for python_exercises1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Conditions - 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Conditions - 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Methods - 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Methods - 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Methods - 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Methods - 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Methods - 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Methods - 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators - 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators - 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators - 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators - 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators - 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators - 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators -2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators -2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators -4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators -4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators -6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators -6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Operators -7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Operators -7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercise Variables - 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Variables - 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Variables - 9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,18 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.Exercise Variables - 1">
-    <configuration name="Exercise Variables - 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yucel\Desktop\PYTHON\PythonAllExercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercise Conditions - 1">
+    <configuration name="Exercise Conditions - 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAllExercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Variables - 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Conditions - 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -63,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercises" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise Methods - 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAllExercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,7 +104,73 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Methods - 1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise Methods - 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAllExercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Methods - 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise Methods - 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAllExercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Methods - 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise Operators -4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAllExercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise Operators -4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,8 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise Variables - 1" />
-        <item itemvalue="Python.Exercises" />
+        <item itemvalue="Python.Exercise Conditions - 1" />
+        <item itemvalue="Python.Exercise Methods - 3" />
+        <item itemvalue="Python.Exercise Methods - 2" />
+        <item itemvalue="Python.Exercise Methods - 1" />
+        <item itemvalue="Python.Exercise Operators -4" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +197,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671300162627</updated>
-      <workItem from="1671300166804" duration="1570000" />
+      <workItem from="1671300166804" duration="3780000" />
+      <workItem from="1671313972342" duration="1397000" />
+      <workItem from="1671315398238" duration="1135000" />
+      <workItem from="1671371276208" duration="4613000" />
     </task>
     <task id="LOCAL-00001" summary="Template for python_exercises">
       <created>1671300195247</created>
@@ -116,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671301056177</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Template for python_exercises1">
+      <created>1671302024188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671302024188</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,10 +243,31 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Template for python_exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template for python_exercises" />
+    <MESSAGE value="Template for python_exercises1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Template for python_exercises1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___2.coverage" NAME="Exercise Variables - 2 Coverage Results" MODIFIED="1671302892953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators___3.coverage" NAME="Exercise Operators - 3 Coverage Results" MODIFIED="1671316312718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___8.coverage" NAME="Exercise Variables - 8 Coverage Results" MODIFIED="1671314492609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators__7.coverage" NAME="Exercise Operators -7 Coverage Results" MODIFIED="1671373063922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___5.coverage" NAME="Exercise Variables - 5 Coverage Results" MODIFIED="1671303431634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators__4.coverage" NAME="Exercise Operators -4 Coverage Results" MODIFIED="1671374166022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___10.coverage" NAME="Exercise Variables - 10 Coverage Results" MODIFIED="1671373802210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonAllExercises$Exercises.coverage" NAME="Exercises Coverage Results" MODIFIED="1671301124894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___1.coverage" NAME="Exercise Variables - 1 Coverage Results" MODIFIED="1671301870174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___9.coverage" NAME="Exercise Variables - 9 Coverage Results" MODIFIED="1671373717214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Methods___1.coverage" NAME="Exercise Methods - 1 Coverage Results" MODIFIED="1671374293378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators__6.coverage" NAME="Exercise Operators -6 Coverage Results" MODIFIED="1671372887658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___1.coverage" NAME="Exercise Variables - 1 Coverage Results" MODIFIED="1671302195222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___12.coverage" NAME="Exercise Variables - 12 Coverage Results" MODIFIED="1671373984748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators__2.coverage" NAME="Exercise Operators -2 Coverage Results" MODIFIED="1671374094623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___4.coverage" NAME="Exercise Variables - 4 Coverage Results" MODIFIED="1671303153899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators___1.coverage" NAME="Exercise Operators - 1 Coverage Results" MODIFIED="1671374032063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Methods___2.coverage" NAME="Exercise Methods - 2 Coverage Results" MODIFIED="1671375537902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___3.coverage" NAME="Exercise Variables - 3 Coverage Results" MODIFIED="1671371759024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Operators___5.coverage" NAME="Exercise Operators - 5 Coverage Results" MODIFIED="1671373328486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___6.coverage" NAME="Exercise Variables - 6 Coverage Results" MODIFIED="1671303436717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Methods___3.coverage" NAME="Exercise Methods - 3 Coverage Results" MODIFIED="1671375604482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonAllExercises$Exercise_Variables___11.coverage" NAME="Exercise Variables - 11 Coverage Results" MODIFIED="1671315709038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
