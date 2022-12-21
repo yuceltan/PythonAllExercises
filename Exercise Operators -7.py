@@ -1,3 +1,3 @@
 brands = ["Adidas", "Nike"]
 
-print("Reebok" in brands)
+print("Reebok" not in brands)
